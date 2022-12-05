@@ -1,0 +1,46 @@
+{
+  "description": "Santa Papi started his activity as CEO at the 'Christmas Gifts Factory' in Rovaniemi many years ago and has become a billionaire producing gifts for all children around the world.",
+  "name": "Santa Papi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Skyline by Night"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Short Boxed Beard"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Santa"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "White"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red T-Shirt"
+    }
+  ]
+}
